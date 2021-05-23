@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+Code was inspired from the following video
+"THIRD PERSON MOVEMENT in Unity"
+https://www.youtube.com/watch?v=4HpC--2iowE
+*/
+
 public class ThirdPersonMovement : MonoBehaviour
 {
     public CharacterController controller; // Declaring our Charactercontroller
