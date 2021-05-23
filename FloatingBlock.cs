@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+Code inspired by:
+Unity 2D Moving Platform Tutorial
+https://www.youtube.com/watch?v=8aSzWGKiDAM
+*/
+
 public class FloatingBlock : MonoBehaviour
 {
     float blockSpeed = 10;   //How fast the block moves
